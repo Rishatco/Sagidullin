@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Developer Life</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="loading">Loading…</string>
+    <string name="bad_connection">Error, bad connection</string>
+</resources>
